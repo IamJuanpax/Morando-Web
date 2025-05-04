@@ -1,0 +1,10 @@
+.presentacion{
+    display:grid;
+    justify-items: center;
+}
+
+.banner{
+    width: 100%;
+    height: 45%;
+    object-fit: cover;
+}
